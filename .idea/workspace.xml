@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d50cd963-3567-49e2-953b-e59b16faaec1" name="Changes" comment="first commit with following completed&#10;- sidebar&#10;- inputfield&#10;- header">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d50cd963-3567-49e2-953b-e59b16faaec1" name="Changes" comment="first commit with following completed&#10;- sidebar&#10;- inputfield&#10;- header" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +82,7 @@
       <workItem from="1649697524223" duration="1683000" />
       <workItem from="1649708173723" duration="4860000" />
       <workItem from="1649721645799" duration="2194000" />
-      <workItem from="1649724049299" duration="833000" />
+      <workItem from="1649724049299" duration="1255000" />
     </task>
     <task id="LOCAL-00001" summary="first commit with following completed&#10;- sidebar&#10;- inputfield&#10;- header">
       <created>1649724471373</created>
@@ -93,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649724471373</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit with following completed&#10;- sidebar&#10;- inputfield&#10;- header">
+      <created>1649724893058</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649724893058</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
